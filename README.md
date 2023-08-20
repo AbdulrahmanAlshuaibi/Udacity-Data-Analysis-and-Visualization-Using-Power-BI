@@ -9,4 +9,4 @@ The data sources files used in these proejcts are: ***census-data.xlsx,  custome
 3. [Market Analysis Report for National Clothing Chain](https://github.com/AbdulrahmanAlshuaibi/Udacity-Data-Analysis-and-Visualization-Using-Power-BI/tree/main/Project%203%20-%20Market%20Analysis%20Report%20for%20National%20Clothing%20Chain).
 
 ## Course Certificate
-![Course Certificate](https://github.com/AbdulrahmanAlshuaibi/Udacity-Data-Analysis-and-Visualization-Using-Power-BI/blob/main/Certificate-1.png)
+![Course Certificate](https://github.com/AbdulrahmanAlshuaibi/Udacity-Data-Analysis-and-Visualization-Using-Power-BI/blob/main/Course%20Certificate.png)
