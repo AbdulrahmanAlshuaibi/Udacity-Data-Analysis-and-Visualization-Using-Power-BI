@@ -25,12 +25,20 @@ An online national clothing chain needs help in creating a targeted marketing ca
 
 ## **Summary Report**
 The report answered all of the five questions that are given by the examiners:
-1. What is the correlation (R2 value) between sales and income?
-   [There is a strong positive relation between the sales and income with R = 0.88 and R^2 = 0.78. ](url)
-2. What is the correlation (R2 value) between customer ratings and product return rate?
-3. What are the linear regression formulas to predict customer income from customer sales?
-4. Which customer do you predict has the highest income?
-5. Which product will be advertised the most?
+1. **What is the correlation (R2 value) between sales and income?**
+   There is a strong positive relation between sales and income with R = 0.88 and R^2 = 0.78.
+  
+2. **What is the correlation (R2 value) between customer ratings and product return rate?**
+   there is a strong negative relationship between the customer ratings and the product return rate with R = - 0.83.
+    
+3. **What are the linear regression formulas to predict customer income from customer sales?**        
+      The regression formula is X = ( -722.14 - Y ) / 0.01.
+
+4. **Which customer do you predict has the highest income?**
+   John Little has the highest income with a value of 115.35k.
+  
+5. **Which product will be advertised the most?**
+   John Little has the highest income with a value of 115.35k
 
 
 
